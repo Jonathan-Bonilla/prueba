@@ -1,3 +1,5 @@
 Ëstoy aprendiendo GIT
+
 Estoy actualizado el archivo
+
 he creado la rama1
